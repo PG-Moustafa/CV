@@ -1,0 +1,104 @@
+
+* {
+    color: white;
+    font-family: monospace;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    font-size: 14px;
+    
+}
+
+i {
+    color: white;
+}
+
+.div0 {
+    text-align: center;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+#name {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: rgb(68, 192, 109);
+}
+
+#profile {
+    width: 140px;
+    height: 165px;
+    border-radius: 100%;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-bottom: solid white 1px;
+    color: rgb(68, 192, 109);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7,
+.div8 {
+    margin-bottom: 20px;
+}
+
+.div1 {
+    text-align: center;
+    margin-top: 30px;
+    border: solid white 1px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(68, 192, 109);
+}
+
+.div2 {
+    text-align: justify;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+
+.div6 {
+    flex-direction: column;
+}
+
+.div6 li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+
+
